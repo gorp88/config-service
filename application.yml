@@ -32,4 +32,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 socio:
- mensaje: Hola, este es un ejemplo de leer archivo de configuracion.
+ mensaje: Hola, Esta una actualizacion de esta propiedad.
