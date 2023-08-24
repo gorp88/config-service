@@ -32,4 +32,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 socio:
- mensaje: Hola, cambio dinamico con refreshScope.
+ mensaje: Hola, nuevo cambio dynamic.
